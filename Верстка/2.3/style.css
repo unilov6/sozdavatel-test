@@ -1,0 +1,11 @@
+ul ul {
+    display: none;
+}
+
+.plus::before {
+    content: "[+] ";
+}
+
+.minus::before {
+    content: "[-] ";
+}
